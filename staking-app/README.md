@@ -4,7 +4,7 @@ This app will allow users to stake a token and earn a reward token in return. We
 
 ## Demo   
 
-🔗 Network: Sepolia
+🔗 Network: Sepolia   
 🎯 URL: <deploying...⏳>
 
 ## Smart Contract   
