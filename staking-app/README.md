@@ -5,7 +5,7 @@ This app will allow users to stake a token and earn a reward token in return. We
 ## Demo   
 
 🔗 Network: Sepolia   
-🎯 URL: <deploying...⏳>
+🎯 URL: https://warlocks-erc20stakingapp.netlify.app
 
 ## Smart Contract   
 
