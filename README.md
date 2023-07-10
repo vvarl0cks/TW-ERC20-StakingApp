@@ -1,11 +1,15 @@
-## Create ERC20 Staking App using Thirdweb SDK
+## Create ERC20 Staking App using Thirdweb SDK   
+
+> Stake **$Warlock** and Earn **$Witches** to become The Witcher.
 
 This app will allow users to stake a token and earn a reward token in return. We will cover deploying the necessary contracts for the ERC20 tokens and an ERC20 staking contract. We will then build our own staking application to allow a user to stake, unstake, and claim their reward tokens.   
 
 ## Demo   
 
 🔗 Network: Sepolia   
-🎯 URL: https://warlocks-erc20stakingapp.netlify.app
+🎯 URL: https://warlocks-erc20stakingapp.netlify.app   
+
+<a href="https://github.com/vvarl0cks/TW-ERC20-StakingApp"><img src="https://iili.io/HsYn3jj.png" alt="ERC20 Staking App" border="0" /></a>   
 
 ## Smart Contract   
 
